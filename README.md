@@ -89,6 +89,21 @@ The backend API is documented using Swagger/OpenAPI. You can access the document
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
+#screenshots
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+<img width="1159" alt="Screenshot 2025-05-07 at 16 58 19" src="https://github.com/user-attachments/assets/61ec81f2-9186-4020-b6f8-d326aea6a0bc" />
+
+
+<img width="1159" alt="Screenshot 2025-05-07 at 16 58 39" src="https://github.com/user-attachments/assets/4b589c3c-ef7b-4fc2-b334-6ccc55406168" />
+
+
+<img width="1165" alt="Screenshot 2025-05-07 at 16 59 01" src="https://github.com/user-attachments/assets/fc86034c-6fbe-42a6-88df-1229353f5b51" />
+
+
+<img width="1167" alt="Screenshot 2025-05-07 at 16 59 14" src="https://github.com/user-attachments/assets/85b979d5-d8b3-4f48-a482-be5d77c659b3" />
+
+
+
+ 
+
+
