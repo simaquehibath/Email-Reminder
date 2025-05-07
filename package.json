@@ -1,0 +1,24 @@
+{
+  "name": "email-reminder-app",
+  "version": "1.0.0",
+  "description": "Email Reminder and Report Generation System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.0",
+    "nodemailer": "^6.9.4",
+    "node-cron": "^3.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "pdfkit": "^0.13.0",
+    "exceljs": "^4.3.0",
+    "chart.js": "^4.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
